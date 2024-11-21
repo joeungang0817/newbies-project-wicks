@@ -1,7 +1,0 @@
-{
-  "dependencies": {
-    "package-lock.json": "^1.0.0",
-    "public": "^0.1.5",
-    "src": "^1.1.2"
-  }
-}
